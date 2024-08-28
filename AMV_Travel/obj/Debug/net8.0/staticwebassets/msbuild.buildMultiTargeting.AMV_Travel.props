@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AMV_Travel.props" />
+</Project>
