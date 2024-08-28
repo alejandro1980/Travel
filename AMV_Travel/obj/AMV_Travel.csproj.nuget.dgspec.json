@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\AMV_Travel.csproj": {}
+    "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\AMV_Travel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\AMV_Travel.csproj": {
+    "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\AMV_Travel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\AMV_Travel.csproj",
+        "projectUniqueName": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\AMV_Travel.csproj",
         "projectName": "AMV_Travel",
-        "projectPath": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\AMV_Travel.csproj",
+        "projectPath": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\AMV_Travel.csproj",
         "packagesPath": "C:\\Users\\54115\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\obj\\",
+        "outputPath": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\54115\\AppData\\Roaming\\NuGet\\NuGet.Config",

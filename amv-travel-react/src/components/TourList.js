@@ -23,7 +23,8 @@ function TourList() {
                 ))}
             </ul>
 
-            <button onClick={() =>  navigate('/reservas')}>Nueva reservar</button>
+            <button onClick={() =>  navigate('/reservas')}>Nueva reserva</button>
+            <button onClick={() =>  navigate('/add-tour')}>Nuevo Tour</button>
         </div>
     );
 }

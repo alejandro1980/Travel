@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\",
+  "WorkspaceRootPath": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\gestorreservasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\gestorreservasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\gestorreservasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\entities\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\amv_travel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\amv_travel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\amv_travel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\entities\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\entities\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\entities\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\amv_travel\\amv_travel\\entities\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|c:\\users\\54115\\desktop\\amvtravel\\travel\\amv_travel\\entities\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79842E99-E07F-4C7E-81BC-7B53F0945776}|AMV_Travel\\AMV_Travel.csproj|solutionrelative:amv_travel\\entities\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,15 +54,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AMV_Travel.http",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\AMV_Travel.http",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\AMV_Travel.http",
               "RelativeDocumentMoniker": "AMV_Travel\\AMV_Travel.http",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\AMV_Travel.http",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\AMV_Travel.http",
               "RelativeToolTip": "AMV_Travel\\AMV_Travel.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -72,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ApplicationDbContext .cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Entities\\ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Entities\\ApplicationDbContext .cs",
               "RelativeDocumentMoniker": "AMV_Travel\\Entities\\ApplicationDbContext .cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Entities\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Entities\\ApplicationDbContext .cs",
               "RelativeToolTip": "AMV_Travel\\Entities\\ApplicationDbContext .cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AMV_Travel\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Properties\\launchSettings.json",
               "RelativeToolTip": "AMV_Travel\\Properties\\launchSettings.json",
               "ViewState": "AQIAABMAAAAAAAAAAADgvxoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -96,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Entities\\Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Entities\\Reserva.cs",
               "RelativeDocumentMoniker": "AMV_Travel\\Entities\\Reserva.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Entities\\Reserva.cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Entities\\Reserva.cs",
               "RelativeToolTip": "AMV_Travel\\Entities\\Reserva.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ReservaController.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\ReservaController.cs",
               "RelativeDocumentMoniker": "AMV_Travel\\ReservaController.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\ReservaController.cs",
               "RelativeToolTip": "AMV_Travel\\ReservaController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAA8wBIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GestorReservasService.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\GestorReservasService.cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\GestorReservasService.cs",
               "RelativeDocumentMoniker": "AMV_Travel\\GestorReservasService.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\GestorReservasService.cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\GestorReservasService.cs",
               "RelativeToolTip": "AMV_Travel\\GestorReservasService.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAvwCMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Program.cs",
               "RelativeDocumentMoniker": "AMV_Travel\\Program.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Program.cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Program.cs",
               "RelativeToolTip": "AMV_Travel\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +148,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\AuthController.cs",
               "RelativeDocumentMoniker": "AMV_Travel\\AuthController.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\AuthController.cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\AuthController.cs",
               "RelativeToolTip": "AMV_Travel\\AuthController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TourController.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\TourController.cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\TourController.cs",
               "RelativeDocumentMoniker": "AMV_Travel\\TourController.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\TourController.cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\TourController.cs",
               "RelativeToolTip": "AMV_Travel\\TourController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAlwBoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Entities\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Entities\\Usuario.cs",
               "RelativeDocumentMoniker": "AMV_Travel\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Entities\\Usuario.cs",
               "RelativeToolTip": "AMV_Travel\\Entities\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Tour.cs",
-              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Entities\\Tour.cs",
+              "DocumentMoniker": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Entities\\Tour.cs",
               "RelativeDocumentMoniker": "AMV_Travel\\Entities\\Tour.cs",
-              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\AMV_Travel\\AMV_Travel\\Entities\\Tour.cs",
+              "ToolTip": "C:\\Users\\54115\\Desktop\\AMVTravel\\Travel\\AMV_Travel\\Entities\\Tour.cs",
               "RelativeToolTip": "AMV_Travel\\Entities\\Tour.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

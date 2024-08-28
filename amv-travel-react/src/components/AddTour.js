@@ -1,7 +1,10 @@
 import React, { useState } from 'react';
-const API_URL = "http://localhost:5240/api";  
+import { useNavigate } from 'react-router-dom';
+const API_URL = "http://localhost:5240/api";
+  
 
 function AddTour() {
+    const navigate = useNavigate();
     const [nombre, setNombre] = useState('');
     const [destino, setDestino] = useState('');
     const [fechaInicio, setFechaInicio] = useState('');
@@ -30,6 +33,7 @@ function AddTour() {
 
             if (response.ok) {
                 alert('Tour agregado exitosamente!');
+                navigate('/tours'); 
             } else {
                 alert('Error al agregar el tour.');
             }
